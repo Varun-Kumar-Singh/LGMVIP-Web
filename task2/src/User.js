@@ -1,0 +1,30 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import React from 'react'
+
+const User = ({loading, users}) => {
+  return loading ? (
+    <div id='main'>
+      
+    </div>
+  ) : (
+
+    <div className='row' id='main'>
+        {users.map((user) => (
+            <div className='col-sm-6 col-md-4'>
+                <div className='infor'>
+                    <img src={user.avatar} alt={user.avatar} className='image'></img>
+                    <h2><b>ID: {user.id}</b></h2>
+                    <h3 className='name'>
+                        {user.first_name} {user.last_name}
+                    </h3>
+                    <p className='email'><i className="far fa-envelop"></i> {user.email}</p>
+                </div>
+            </div>
+
+        ))}
+    </div>
+
+  )
+}
+
+export default User
