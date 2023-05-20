@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LGMVIP-Web/static/css/main.eb0f37d6.css",
-    "main.js": "/LGMVIP-Web/static/js/main.9aed1a10.js",
-    "static/js/787.34d05ddd.chunk.js": "/LGMVIP-Web/static/js/787.34d05ddd.chunk.js",
-    "index.html": "/LGMVIP-Web/index.html",
-    "main.eb0f37d6.css.map": "/LGMVIP-Web/static/css/main.eb0f37d6.css.map",
-    "main.9aed1a10.js.map": "/LGMVIP-Web/static/js/main.9aed1a10.js.map",
-    "787.34d05ddd.chunk.js.map": "/LGMVIP-Web/static/js/787.34d05ddd.chunk.js.map"
+    "main.css": "/task4-LGMVIP/static/css/main.88c1330a.css",
+    "main.js": "/task4-LGMVIP/static/js/main.6e9a4416.js",
+    "static/js/787.73c6ac3e.chunk.js": "/task4-LGMVIP/static/js/787.73c6ac3e.chunk.js",
+    "index.html": "/task4-LGMVIP/index.html",
+    "main.88c1330a.css.map": "/task4-LGMVIP/static/css/main.88c1330a.css.map",
+    "main.6e9a4416.js.map": "/task4-LGMVIP/static/js/main.6e9a4416.js.map",
+    "787.73c6ac3e.chunk.js.map": "/task4-LGMVIP/static/js/787.73c6ac3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb0f37d6.css",
-    "static/js/main.9aed1a10.js"
+    "static/css/main.88c1330a.css",
+    "static/js/main.6e9a4416.js"
   ]
 }
